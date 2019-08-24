@@ -24,6 +24,8 @@ Once all the PRs are in, users should submit a written review on their assigned 
 
 The written reviews should be done before a video conference where each person presents their work, and the group then has a chance to review and discuss. This is the time where communication about decisions is key. **Talking about code** is as important as writing it.
 
+[a more detailed description of the review process is here.](structure/review-process.md)
+
 ### Repeat
 
 Now you have to move on. this isnt about iteration. This is about getting the nuggets of learning and applying them in the next project. Going over the same code repeatedly can become boring. Move on!
